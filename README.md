@@ -1,4 +1,4 @@
-#Customer Churn
+# Customer Churn
 
 This is a basic customer churn analysis project with a telecom indutry kaggle dataset. The project serves as an API using flask and renders an output over a web application.
 
