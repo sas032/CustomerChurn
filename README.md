@@ -1,6 +1,6 @@
 # Customer Churn
 
-## THIS PROJECT WAS DEVELOPED AS A TUTORIAL/LEARNING EXCERCISE
+## THIS PROJECT WAS DEVELOPED AS A TUTORIAL / LEARNING EXCERCISE
 
 This is a basic customer churn analysis project with a telecom indutry kaggle dataset. The project serves as an API using flask and renders an output over a web application.
 
