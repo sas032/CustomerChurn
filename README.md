@@ -7,7 +7,7 @@ This is a basic customer churn analysis project with a telecom indutry kaggle da
 Follow these steps to test the project
 
 ```bash
-git clone "repolink"
+git clone https://github.com/sas032/CustomerChurn.git
 ```
 Open you terminal/prompt in the directory and type the following command
 
